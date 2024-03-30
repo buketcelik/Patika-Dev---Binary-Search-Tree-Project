@@ -3,7 +3,7 @@
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-Answer: 
+```
 
 Root x = 6
                              6
@@ -24,4 +24,5 @@ Step 5:     3 < 6 için 3 root'un soluna eklenir.
 Step 6:     0 < 6 için 0 root'un soluna eklenir.
 Step 7:     9 > 6 için 9 root'un sağına eklenir.
 Step 8:     4 < 6 için 4 root'un soluna eklenir.                        
-Step 9:     2 < 6 için 2 root'un soluna eklenir.                         
+Step 9:     2 < 6 için 2 root'un soluna eklenir.
+```                     
